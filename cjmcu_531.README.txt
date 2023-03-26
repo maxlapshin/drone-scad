@@ -1,0 +1,8 @@
+
+This is a holder for cjmcu-531 laser rangefinder that is using VL53L1X chip.
+
+This holder fits ideally Chimera 7 frame that has special place for it instead of LED.
+
+Copied from holybro rangefinder case.
+
+
